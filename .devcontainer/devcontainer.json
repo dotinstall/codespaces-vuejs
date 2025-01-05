@@ -14,6 +14,11 @@
       "openFiles": [
         "src/App.vue"
       ]
+    },
+    "vscode": {
+      "extensions": [
+          "Vue.volar"
+      ]
     }
   },
   "portsAttributes": {
