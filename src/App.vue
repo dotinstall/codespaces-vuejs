@@ -1,4 +1,4 @@
 <template>
-  <h1>Hello from Vue.js 3</h1>
+  <h1>Hello from Vue.js</h1>
 </template>
 
