@@ -13,7 +13,8 @@
     },
     "vscode": {
       "extensions": [
-          "Vue.volar"
+          "Vue.volar",
+          "github.codespaces"
       ]
     }
   },
